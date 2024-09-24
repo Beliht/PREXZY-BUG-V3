@@ -14,7 +14,7 @@ global.botname = '𝕻𝕽𝕰𝖃𝖄 𝕭𝖀𝕾 𝕻3' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '👑Prexzy\n\nContact: +2347063956321'
+global.author = '👑Prexzy\n\nContact: +50934264892'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -24,7 +24,7 @@ global.wm = "PREXZYVILLA."
 global.link = 'https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['','!','+','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
